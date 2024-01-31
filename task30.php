@@ -1,10 +1,9 @@
 <?php
 
-echo "Hello World!";
+echo "task30";
 
-$aux1 = "Bom";
-$aux2 = "dia!";
+$aux1 = "Teste: ";
+$aux2 = "task30";
 echo $aux1 . " " . $aux2;
 
-echo "kkkkkkkk";
 ?>
